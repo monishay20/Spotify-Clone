@@ -29,7 +29,7 @@ npm start
 
 ## Deployment
 
-Live Demo: *Add live link here after deployment*
+Live Demo: [Click here to view](https://spotify-clone-35hcqhqt8-monisha-yadavs-projects.vercel.app)
 
 ## Screenshots
 
