@@ -1,12 +1,37 @@
-# React + Vite
+# Spotify Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a Spotify-inspired music player web app with dark UI, playlist, and play/pause functionality built using React.js and Tailwind CSS.
 
-Currently, two official plugins are available:
+## Features
+- Dark mode UI similar to Spotify
+- Responsive design (mobile & desktop)
+- Play and Pause buttons for songs
+- Clickable seek bar (jump to any time in song)
+- Auto play when switching tracks
+- Previous / Next song controls
+- Formatted timer display (mm:ss)
+- Playlist of songs displayed
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React JS
+* Tailwind CSS
+
+## Getting Started
+
+### Installation
+
+```bash
+npm install
+npm start
+```
+
+## Deployment
+
+Live Demo: *Add live link here after deployment*
+
+## Screenshots
+
+Add screenshots here later.
+
